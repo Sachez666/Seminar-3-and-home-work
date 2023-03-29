@@ -42,5 +42,7 @@
 
 Для того что бы перемещаться между commit и ветками необходимо использовать команды:
 
-    git checkout number_commit
+    git checkout hesh
     git checkout "name_branch"
+
+## 
