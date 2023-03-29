@@ -37,3 +37,10 @@
     git log all
     git log all --oneline
 Где --oneline упрощённый вариант просмотра лога в одну линию, а all просмотрт вообще всех логов 
+
+## Перемещение 
+
+Для того что бы перемещаться между commit и ветками необходимо использовать команды:
+
+    git checkout number_commit
+    git checkout "name_branch"
