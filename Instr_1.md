@@ -27,3 +27,13 @@
 
     git config global name."user"
     git config global name."email"
+
+## Журнал
+
+Для того что бы посмотреть историю commit необходимо использовать команды:
+
+    git log
+    git log --oneline
+    git log all
+    git log all --oneline
+Где --oneline упрощённый вариант просмотра лога в одну линию, а all просмотрт вообще всех логов 
