@@ -45,4 +45,10 @@
     git checkout hesh
     git checkout "name_branch"
 
-## 
+## Сравнение
+
+Для того что бы узнать разницу или же сравнить два commit необходимо использовать команды:
+
+    git diff
+    git diff <hash>
+    git diff <hash1> <hash2>
