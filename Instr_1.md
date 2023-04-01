@@ -100,3 +100,9 @@
 комманда работает 
 
 Запускаем отдельную ветку после которой через сколько то шагов будет слияние 
+
+## dasddsdvdsvds    TEST 2
+dsdawdsdas
+wadasdawdsadcdsdasc
+dcdascasdcasdcdas
+wefawcasdcds
