@@ -73,3 +73,18 @@
     git branch "Branch_Name"
 
 где <branch_name> это имя ветки
+
+## Слияние веток 
+
+Слияние делается командой:
+
+    git merge "Branch_name"
+
+## Удаление веток 
+
+Удалить ветку можно при помощи команды:
+
+    git branch -d "Branch_name"
+
+Флажок -d обозначает удаление "delete"
+
