@@ -71,8 +71,9 @@
 что бы создать новую ветку нужно ввести команду:
 
     git branch "Branch_Name"
+    git checkout -b <Branch_name>
 
-где <branch_name> это имя ветки
+где <branch_name> это имя ветки, а <git checkout -b "Branch_name"> создаст новую ветки и сразу же переключит на нее
 
 ## Слияние веток 
 
