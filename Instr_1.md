@@ -106,3 +106,9 @@ dsdawdsdas
 wadasdawdsadcdsdasc
 dcdascasdcasdcdas
 wefawcasdcds
+
+## палочки получилось тест 2 стартовал успешно
+
+ыфвфывйцвйцв
+ауцйуа  цуацйуацуа
+йцайуауцацу
