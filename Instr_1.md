@@ -52,3 +52,6 @@
     git diff
     git diff <hash>
     git diff <hash1> <hash2>
+
+![Git embleme](img/git_pick.PNG) 
+
